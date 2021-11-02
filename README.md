@@ -1,8 +1,4 @@
-# pwahelp_Buhahahaha
-
-## Credits ivvaledu ani baadha padakandi , pani aipoyaka thisestha
-## Thankyou
-> for creating pwa's
+### for creating pwa's
 
 
 
